@@ -1,4 +1,3 @@
-# SynTecxHub_ML_Intership_Week_01
 # House Price Prediction - Machine Learning Project
 
 A complete machine learning solution for predicting house prices using Linear Regression. This project implements a full data science pipeline from data loading and preprocessing to model training, evaluation, and deployment.
